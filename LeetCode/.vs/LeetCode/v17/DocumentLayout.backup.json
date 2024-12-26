@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eviwe\\source\\repos\\Eviwe\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B74775B-694A-4810-9636-2AF0936D8E0D}|LeetCode\\LeetCode.csproj|c:\\users\\eviwe\\source\\repos\\eviwe\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B74775B-694A-4810-9636-2AF0936D8E0D}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eviwe\\source\\repos\\Eviwe\\LeetCode\\LeetCode\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Program.cs",
+              "ToolTip": "C:\\Users\\eviwe\\source\\repos\\Eviwe\\LeetCode\\LeetCode\\Program.cs*",
+              "RelativeToolTip": "LeetCode\\Program.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:05:26.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
