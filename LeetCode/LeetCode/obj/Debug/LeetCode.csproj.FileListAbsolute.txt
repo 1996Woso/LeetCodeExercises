@@ -5,3 +5,10 @@ C:\Users\eviwe\source\repos\Eviwe\LeetCode\LeetCode\bin\Debug\LeetCode.exe
 C:\Users\eviwe\source\repos\Eviwe\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
 C:\Users\eviwe\source\repos\Eviwe\LeetCode\LeetCode\obj\Debug\LeetCode.exe
 C:\Users\eviwe\source\repos\Eviwe\LeetCode\LeetCode\obj\Debug\LeetCode.pdb
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.AssemblyReference.cache
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\obj\Debug\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\bin\Debug\LeetCode.exe.config
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\bin\Debug\LeetCode.exe
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\bin\Debug\LeetCode.pdb
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\obj\Debug\LeetCode.exe
+C:\Users\eviwe\source\repos\Eviwe\LeetCodeExercises\LeetCode\LeetCode\obj\Debug\LeetCode.pdb
